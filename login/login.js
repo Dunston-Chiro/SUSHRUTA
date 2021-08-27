@@ -5,16 +5,16 @@ function verify()
 		'pass': "96.53.24.13.34.2.4.7.14.28.63", //mcmcQR@3456
 	}			
 	const userInfo2 = {
-		'name': "amrit@2001",
-		'pass': "",
+		'name': "amrit@2000",
+		'pass': "58.56.14.56.7.14.29.49",
 	}
 	const userInfo3 = {
 		'name': "sourav@2001",
-		'pass': "",
+		'pass': "58.56.14.56.7.14.29.62",
 	}
 	const userInfo4 = {
 		'name': "sanjib@2002",
-		'pass': "",
+		'pass': "58.56.14.56.7.14.29.60",
 	}
 
 	const uname = document.getElementById("name").value;
