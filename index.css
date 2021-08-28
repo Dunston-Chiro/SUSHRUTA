@@ -4,6 +4,47 @@
 
 /*===== VARIABLES CSS =====*/
 
+
+
+
+
+.home__container img{
+    height: 150px;
+    width: 150px;
+    margin-top: 90px;
+    margin-left: 450px;
+}
+.rotate {
+    animation: rotation 5s;
+  }
+  
+  .linear {
+    animation-timing-function: linear;
+  }
+  
+  .infinite {
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
+  
+  
+  
+
+
+
+
+
+
+
+
 :root {
     --header-height: 3rem;
     --font-medium: 500;
@@ -268,7 +309,10 @@ img {
 .home__container {
     height: calc(100vh - var(--header-height));
     row-gap: 5rem;
+
 }
+
+
 
 .home__title {
     align-self: flex-end;
@@ -276,7 +320,18 @@ img {
     color: var(--white-color);
     line-height: 0.8;
     text-align: center;
+    font-size: 75px;
+    z-index: 1;
+    margin-bottom: 125px;
+    
 }
+
+/* #demo {
+    color: whitesmoke;
+    margin-top: 75px;
+    text-align: center;
+    font-size: 30px;
+} */
 
 .home__title span {
     text-shadow: 0 20px 25px rgba(0, 0, 0, 0.5);
@@ -296,7 +351,20 @@ img {
     border: 2px solid white;
     padding: 15px;
     margin: 20px;
-    border-radius: 10%;
+    border-radius: 15px;
+}
+
+.home__scroll-link:hover{
+    writing-mode: horizontal-tb;
+    transform: rotate(-180deg);
+    color: bisque;
+    width: 300px;
+    border: 2px solid white;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 15px;
+    font-size: 18px;
+    box-shadow: 0 20px 25px rgba(0,0,0, 0.5);
 }
 
 .home__img {
@@ -324,6 +392,8 @@ button {
 
 button:hover {
     background-color: #1f71ff;
+    font-size: 18px;
+    box-shadow: 0 20px 25px rgba(0,0,0, 0.5);
 }
 
 
@@ -764,6 +834,7 @@ table {
     font-size: var(--normal-font-size);
     cursor: pointer;
 }
+
 
 .contact__button2 {
     display: block;
