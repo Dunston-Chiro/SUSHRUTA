@@ -19,13 +19,18 @@ function getdata()
 	var line5 = document.getElementById("uname").value;
 
 	var line6 = document.getElementById("pass").value;
-	var	buff = document.getElementById("cpass").value;
+	var buff = document.getElementById("cpass").value;
 
+	if(line1=="" || line2=="" || line3=="" || line4=="" || line5=="" || line6=="" || buff=="")
+	{
+		alert("Fill up the empty fields!!");
+		return;
+	}
 	if(line6==buff)
-		alert("Password confirmed :)");
+		alert("Regestration process completed successfully");
 	else
 	{
-		alert("Confirm password correctlly!!!");
+		alert("Confirm password correctly!!!");
 		return;
 	}
 
@@ -40,13 +45,15 @@ function getdata()
 		'uname': line5,
 		'pass': line6,
 		'type': 'User',
-	}
+	};
 
-	const request = new XMLHttpRequest()
+	const request = new XMLHttpRequest();
 	request.open('POST', '/processUserInfo/${JSON.stringify(userInfo)}')
 	request.onload = () => {
-		const flaskMessage = request.responseText
-		console.log(flaskMessage)
+		const flaskMessage = request.responseText;
+		console.log(flaskMessage);
 	}
 	request.send()
+	
+	close();
 }
