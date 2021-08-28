@@ -22,7 +22,7 @@ function verify()
 
 	if(uname=="" || pwd=="")
 	{
-		alert("Kaka moja peyecho???")
+		alert("Please provide the data required or login with Sawo portal");
 		return;
 	}
 
