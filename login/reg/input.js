@@ -27,7 +27,10 @@ function getdata()
 		return;
 	}
 	if(line6==buff)
+	{
 		alert("Regestration process completed successfully");
+		close();
+	}
 	else
 	{
 		alert("Confirm password correctly!!!");
@@ -54,6 +57,4 @@ function getdata()
 		console.log(flaskMessage);
 	}
 	request.send()
-	
-	close();
 }
