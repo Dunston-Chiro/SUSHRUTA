@@ -8,43 +8,6 @@
 
 
 
-.home__container img{
-    height: 150px;
-    width: 150px;
-    margin-top: 90px;
-    margin-left: 450px;
-}
-.rotate {
-    animation: rotation 5s;
-  }
-  
-  .linear {
-    animation-timing-function: linear;
-  }
-  
-  .infinite {
-    animation-iteration-count: infinite;
-  }
-  
-  @keyframes rotation {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(359deg);
-    }
-  }
-  
-  
-  
-
-
-
-
-
-
-
-
 :root {
     --header-height: 3rem;
     --font-medium: 500;
@@ -320,9 +283,9 @@ img {
     color: var(--white-color);
     line-height: 0.8;
     text-align: center;
-    font-size: 75px;
+    font-size: 150px;
     z-index: 1;
-    margin-bottom: 125px;
+    margin-bottom:;
     
 }
 
