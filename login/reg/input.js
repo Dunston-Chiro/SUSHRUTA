@@ -29,7 +29,7 @@ function getdata()
 	else if(line6==buff)
 	{
 		alert("Regestration process completed successfully");
-		close();
+		window.close();
 		return;
 	}
 	else
