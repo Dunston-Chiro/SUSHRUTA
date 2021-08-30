@@ -26,10 +26,11 @@ function getdata()
 		alert("Fill up the empty fields!!");
 		return;
 	}
-	if(line6==buff)
+	else if(line6==buff)
 	{
 		alert("Regestration process completed successfully");
 		close();
+		return;
 	}
 	else
 	{
