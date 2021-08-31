@@ -1,4 +1,4 @@
-<img align="center" alt="cover" width="100%" src="cover.png" /> <br><br>
+<img align="center" alt="cover" width="100%" src="Images/cover.png" /> <br><br>
 
 # 🩺 Project [SUSHRUTA](https://dunston-chiro.github.io/SUSHRUTA)
 
