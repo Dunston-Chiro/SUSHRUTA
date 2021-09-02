@@ -1,4 +1,4 @@
-<img align="center" alt="cover" width="100%" src="Images/cover.png" /> <br><br>
+<img align="center" alt="cover" width="100%" src="Readme/cover.png" /> <br><br>
 
 # 🩺 Project [SUSHRUTA](https://dunston-chiro.github.io/SUSHRUTA)
 
@@ -83,17 +83,148 @@ And lastly there is a Python and MongoDB based DBMS running on a Flask API.
 
 ---
 
-### Get Started
+### 🚩 Get Started
 
-### 🎰 Full Project <br><br>
+<br>
 
-##### Check out the full project [here]().
+#### 1. _Main Page :_
+
+<br>
+
+> 1.1 **Home**
+
+<img align="center" alt="cover" width="100%" src="Readme/nav.png" /> <br>
+On the homepage, you can see the nav bar on top where we have created various sections all of which we will discuss one by one.
+
+<br>
+
+> 1.2 **About**
+
+<img align="center" alt="cover" width="100%" src="Readme/about.png" /> <br>
+In the 'About' section, the user can see a brief description about what our aim is with Sushruta and also can connect us via various social platforms.
+
+<br>
+
+> 1.3 **Doctors**
+
+<img align="center" alt="cover" width="100%" src="Readme/doc.png" /> <br>
+In the 'Doctors' section, the user can see basic details about the top doctors those have collaborated with our system and if required, user can directly book an appointment with any particular doctor.
+
+<br>
+
+> 1.4 **Our Team**
+
+<img align="center" alt="cover" width="100%" src="Readme/team.png" /> <br>
+in the 'Team' section, we’ve also mentioned the entire team Udvaban and if you want further details of any individual you can just click on the image and visit their respective LinkedIn profiles.
+
+<br>
+
+> 1.5 **Contact Us**
+
+<img align="center" alt="cover" width="100%" src="Readme/contact.png" /> <br>
+We’ve also created a section where the user can contact us in case of any grievance/complaint/suggetions or feedback.
+
+<br>
+
+> 1.6 **Footer**
+
+<img align="center" alt="cover" width="100%" src="Readme/footer.png" /> <br>
+The footer section of the page has all the social links, explorer section and our team’s logo along with copyright statement.
+
+<br>
+
+#### 2. _Sign In / Sign Up Page :_
+
+<br>
+
+> **Login Button**
+
+<img align="center" alt="cover" width="100%" src="Readme/loginbtn.png" /> <br>
+Now, clicking on the login button, the user is taken to another page where they can either Sign In or Sign Up as a new user.
+
+<br>
+
+> - ##### 2.1 Sign In (An user who have already registered) :- <br>
+
+<img align="center" alt="cover" width="100%" src="Readme/loginpage1.png" /><br>
+
+> 2.1.1 **Various ways of Signing In**
+
+<img align="center" alt="cover" width="33.3%" src="Readme/loginidpd.png" /><img
+ align="center" alt="cover" width="33.3%" src="Readme/loginsocial.png" /><img align="center" alt="cover" width="33.3%" src="Readme/loginsawo.png" />
+
+<br>
+There are 3 ways to Login / Sign In, i.e. using username and password, using social media accounts or the Sawo labs API. 
+<br><br>
+
+<img align="center" alt="cover" width="33.3%" src="Readme/sawoeg1.png" /><img align="center" alt="cover" width="33.3%" src="Readme/sawoeg2.png" /><img align="center" alt="cover" width="33.3%" src="Readme/sawoeg3.png" />
+
+Eg: How to Login using Sawo Labs API
+
+<br>
+
+> 2.1.2 **Doctors Details**
+
+<img align="center" alt="cover" width="48%" src="Readme/docdetails1.png" /> <img align="center" alt="cover" width="48%" src="Readme/docdetails2.png" /> <br>
+After logging in successfully, the user can now see the details of the doctors including their departments, degrees, chamber location and what they charge for an appointment.
+
+<br>
+
+> 2.1.3 **Want Suggestions ?**
+
+<img align="center" alt="cover" width="48%" src="Readme/sugg.png" /> <img align="center" alt="cover" width="48%" src="Readme/suggbox.png" /> <br>
+Now if the user wants to get any recommendation from our side, then he/she can click on the ‘Want Suggestions?’ button situated on bottom of the doctors section which will open a text box form where they can write their symptoms.
+<br>
+<img align="center" alt="cover" width="100%" src="Images/cover.png" /> <br>
+according to these we and our doctors’ team will recommend possible tests, diagnosis and direct appointments if necessary.
+
+<br>
+<br>
+
+> - ##### 2.2 Sign Up (An user who is going to register) :-
+
+<img align="center" alt="cover" width="100%" src="Readme/signuppage1.png" /> <br>
+
+> 2.2.1 **Ways for Sign Up**
+
+<img align="center" alt="cover" width="50%" src="Readme/signupidpd.png" /><img align="center" alt="cover" width="50%" src="Readme/signupsocial.png" /> <br>
+From the sign in/sign up page, the user can either sign up with their email or via social accounts.
+
+<br>
+
+> 2.2.2 **Registration Process**
+
+<img align="center" alt="cover" width="48%" src="Readme/reg1.png" /> <img align="center" alt="cover" width="48%" src="Readme/reg2.png" /> <br>
+After that, the user get redirected to a registration page where they have to fill in their basic details like name, gender and phone number and also then create a new username and password.
+Next click on the 'Proceed' button.
+
+<br>
+
+> 2.2.2 **Redirect to main page**
+
+<img align="center" alt="cover" width="48%" src="Readme/docdetails1.png" /> <img align="center" alt="cover" width="48%" src="Readme/docdetails2.png" /> <br>
+After proceeding, they user is directed back to the main page where they now see the details of our doctors and remaining process is same as for the previously logged in users.
 
 <br>
 
 ---
 
-### 🎬 Description Video <br><br>
+### 🎰 Full Project <br><br>
+
+##### Check out the full project [here.]()
+
+<br>
+
+---
+
+### 🎬 Description Video
+
+ <br>
+
+##### _Platform:_ ![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+To start the video, [click here.]()
+<br>
 
 ---
 
@@ -134,3 +265,7 @@ And lastly there is a Python and MongoDB based DBMS running on a Flask API.
 ###### • _[Sanjib Kumar Das](https://www.linkedin.com/in/sanjib-kumar-das-2a742920b)_
 
 ###### • _[Sourav Biswas](https://www.linkedin.com/in/sourav-biswas-220207200)_
+
+<br><br>
+
+© 2021 Team UDVABAN | All rights reserved
