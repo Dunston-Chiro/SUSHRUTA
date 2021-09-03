@@ -174,12 +174,23 @@ After logging in successfully, the user can now see the details of the doctors i
 
 <img align="center" alt="cover" width="48%" src="Readme/sugg.png" /> <img align="center" alt="cover" width="48%" src="Readme/suggbox.png" /> <br>
 Now if the user wants to get any recommendation from our side, then he/she can click on the ‘Want Suggestions?’ button situated on bottom of the doctors section which will open a text box form where they can write their symptoms.
-<br>
-<img align="center" alt="cover" width="100%" src="Images/cover.png" /> <br>
 according to these we and our doctors’ team will recommend possible tests, diagnosis and direct appointments if necessary.
 
 <br>
+
+> 2.1.4 **AI Based Doctor Prediction Java Application**
+
+<img align="center" alt="cover" width="48%" src="Readme/Java_programs.png" /> <img align="center" alt="cover" width="48%" src="Readme/Accept.png" /> <br>
+So, these are the AI Based Doctor Prediction Java Appication and Appointment Booking Java Application. The primary function of the AI Based Doctor Prediction Java Appication is to accept the various symptoms.
+
 <br>
+
+> 2.1.5 **Booking an Appointment Java Application**
+
+<img align="center" alt="cover" width="48%" src="Readme/AIResult.png" /> <img align="center" alt="cover" width="48%" src="Readme/slot_booking.png" /> <br>
+With the application of AI, the best suited Doctor/Doctors who will be able to cure the disease will be appointed to the patient. After the appointment, the patient will proceed towards booking the appointment with the specified doctor as per the choice of patient and availability of slots.
+Consequently, the patient will be able to book the slot and then checkout successfully.
+<br><br>
 
 > - ##### 2.2 Sign Up (An user who is going to register) :-
 
@@ -207,20 +218,6 @@ After proceeding, they user is directed back to the main page where they now see
 
 <br>
 
-> 2.2.4 **AI Based Doctor Prediction Java Application**
-
-<img align="center" alt="cover" width="48%" src="Readme/Java_programs.png" /> <img align="center" alt="cover" width="48%" src="Readme/Accept.png" /> <br>
-So, these are the AI Based Doctor Prediction Java Appication and Appointment Booking Java Application. The primary function of the AI Based Doctor Prediction Java Appication is to accept the various symptoms. 
-
-<br>
-
-> 2.2.5 **Booking an Appointment Java Application**
-
-<img align="center" alt="cover" width="48%" src="Readme/AIResult.png" /> <img align="center" alt="cover" width="48%" src="Readme/slot_booking.png" /> <br>
-With the application of AI, the best suited Doctor/Doctors who will be able to cure the disease will be appointed to the patient. After the appointment, the patient will proceed towards booking the appointment with the specified doctor as per the choice of patient and availability of slots.
-Consequently, the patient will be able to book the slot and then checkout successfully.
-
-<br>
 ---
 
 ### 🎰 Full Project <br><br>
@@ -280,6 +277,10 @@ To start the video, [click here.]()
 
 ###### • _[Sourav Biswas](https://www.linkedin.com/in/sourav-biswas-220207200)_
 
-<br><br>
+<br>
 
-© 2021 Team UDVABAN | All rights reserved
+---
+
+##### References:
+
+[W3 Schools](https://www.w3schools.com/) | [Geeks for Geeks](https://www.geeksforgeeks.org/) | [Stack Overflow](https://stackoverflow.com/) | [Tutorial](https://www.youtube.com/watch?v=m9LKX9yE3r0) | [Opensource](https://github.com/JunaidShamnad/SignIn-SignUp-Form) | [SAWO Labs](https://sawolabs.com/resources) | [Udemy](https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap-p/learn/lecture/24007924?start=0#overview) | [Coursera](https://www.coursera.org/specializations/web-design) | [Great Learning](https://www.greatlearning.in/)
