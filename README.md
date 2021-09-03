@@ -12,26 +12,32 @@ An all in one portal to set up your appointments with specialised field physicia
 
 ## 🎯 _Table Of Contents:_
 
-📌 [Overview](###overview)
 <br>
+
+📌 [Overview](###overview)
 
 📌 [Features](###features)
-<br>
+
+📌 [Browser Support](###features)
+
+📌 [Operating System Support](###features)
+
+📌 [Get Started](###features)
 
 📌 [Full Project]()
-<br>
 
 📌 [Description Video]()
-<br>
 
-📌 [Languages & Tools]()
+📌 [Tools & Tech stacks]()
 
-- IDE Used
+- Editors and IDE Used
 - Languages Used
-  <br>
+- Version Control
+- Hosting Platform
 
 📌 [Connect With Us]()
 
+📌 [References]()
 <br>
 
 ---
