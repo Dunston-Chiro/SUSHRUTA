@@ -63,7 +63,7 @@ And lastly there is a Python and MongoDB based DBMS running on a Flask API.
    <br>
 5. A Cross platform environment
 
-<br><br>
+<br>
 
 ---
 
@@ -283,4 +283,4 @@ To start the video, [click here.]()
 
 ##### References:
 
-[W3 Schools](https://www.w3schools.com/) | [Geeks for Geeks](https://www.geeksforgeeks.org/) | [Stack Overflow](https://stackoverflow.com/) | [Tutorial](https://www.youtube.com/watch?v=m9LKX9yE3r0) | [Opensource](https://github.com/JunaidShamnad/SignIn-SignUp-Form) | [SAWO Labs](https://sawolabs.com/resources) | [Udemy](https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap-p/learn/lecture/24007924?start=0#overview) | [Coursera](https://www.coursera.org/specializations/web-design) | [Great Learning](https://www.greatlearning.in/)
+[W3 Schools](https://www.w3schools.com/) | [Geeks for Geeks](https://www.geeksforgeeks.org/) | [Stack Overflow](https://stackoverflow.com/) | [Tutorial](https://www.youtube.com/watch?v=m9LKX9yE3r0) | [Github](https://github.com/JunaidShamnad/SignIn-SignUp-Form) | [SAWO Labs](https://sawolabs.com/resources) | [Udemy](https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap-p/learn/lecture/24007924?start=0#overview) | [Coursera](https://www.coursera.org/specializations/web-design) | [Great Learning](https://www.greatlearning.in/) | [Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo)
